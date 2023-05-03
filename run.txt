@@ -1,0 +1,6 @@
+python main.py \
+--datadir SBU_splits \
+--output_path output/gmflow-norefine-sintel_market_1 \
+--resume pretrained/gmflow_sintel-0c07dcb3.pth \
+--batch_size 4 \
+--lr 0.01
