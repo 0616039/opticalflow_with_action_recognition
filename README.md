@@ -26,4 +26,4 @@ Our experiment results is on the right side, as we can see, on the first row, if
 Next, we experimented with different training approaches in the second and third rows. We trained the Target network and Privacy network in the first and second steps, and then varied the third step. In the second row, we only trained the encoder, while in the third row, we trained both the encoder and the Target network together.
 
 Ultimately, we found that training the encoder with the Target network produced the best results.
-![](https://github.com/0616039/opticalflow_with_action_recognition/blob/main/result.png)
+![](https://github.com/0616039/opticalflow_with_action_recognition/blob/main/Result.png)
